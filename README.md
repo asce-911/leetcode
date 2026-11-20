@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/asce-911/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/asce-911/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/asce-911/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/asce-911/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/asce-911/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asce-911/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/asce-911/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Quicksort
 |  |
 | ------- |
