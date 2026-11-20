@@ -15,6 +15,7 @@
 | [0904-fruit-into-baskets](https://github.com/asce-911/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/asce-911/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/asce-911/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/asce-911/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/asce-911/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asce-911/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/asce-911/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/asce-911/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
