@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/asce-911/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/asce-911/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0904-fruit-into-baskets](https://github.com/asce-911/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0986-interval-list-intersections](https://github.com/asce-911/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/asce-911/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/asce-911/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/asce-911/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@
 | [0202-happy-number](https://github.com/asce-911/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/asce-911/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/asce-911/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/asce-911/leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/asce-911/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/asce-911/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
