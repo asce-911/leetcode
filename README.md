@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/asce-911/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/asce-911/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/asce-911/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0503-next-greater-element-ii](https://github.com/asce-911/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/asce-911/leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/asce-911/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/asce-911/leetcode/tree/master/0986-interval-list-intersections) |
@@ -132,9 +133,11 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/asce-911/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/asce-911/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/asce-911/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/asce-911/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
