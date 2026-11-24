@@ -88,12 +88,14 @@
 | [0202-happy-number](https://github.com/asce-911/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/asce-911/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/asce-911/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/asce-911/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asce-911/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asce-911/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/asce-911/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/asce-911/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asce-911/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -150,4 +152,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/asce-911/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/asce-911/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
